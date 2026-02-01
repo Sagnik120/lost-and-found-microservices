@@ -9,6 +9,10 @@ const CONFIG = {
   
   // Item Service - Lost & Found items
   ITEM_SERVICE_URL: 'http://localhost:8001',
+
+//AUTH_SERVICE_URL:"http://192.168.148.4:8000",
+//ITEM_SERVICE_URL:"http://192.168.148.4:8001",
+
   
   // Local storage keys
   STORAGE_KEYS: {
